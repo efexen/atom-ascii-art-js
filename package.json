@@ -1,0 +1,16 @@
+{
+  "name": "ascii-art-js",
+  "main": "./lib/ascii-art-js",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Atom.io Ascii Art Package example in JS",
+  "activationEvents": ["ascii-art-js:convert"],
+  "repository": "https://github.com/efexen/atom-ascii-art-js",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "figlet": "1.0.8"
+  }
+}

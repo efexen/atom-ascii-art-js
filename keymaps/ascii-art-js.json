@@ -1,0 +1,5 @@
+{
+  ".editor": {
+    "cmd-alt-a": "ascii-art-js:convert"
+  }
+}
