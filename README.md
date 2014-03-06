@@ -1,5 +1,5 @@
-# ascii-art-js package
+# atom-ascii-art-js package
 
-A short description of your package.
+This is the result of converting the [Create Your First Package](https://atom.io/docs/v0.67.0/your-first-package) tutorial for Atom Editor to JavaScript.
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+I also wrote a [blog](http://blog.fxndev.com/create-your-first-atom-package-in-js/) post about this :D
